@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to My Website!"
+permalink: /post/:month/:day/:year
 ---
 
 # Hi!
